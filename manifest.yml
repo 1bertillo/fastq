@@ -1,0 +1,10 @@
+Cartridge-Short-Name: FASTQC
+Cartridge-Version: 1.0.0
+Cart-Data:
+Scaling:
+  Min: 1
+  Max: -1
+ Provides:
+	-FastQC
+Source-Url: https://github.com/example/killer-cartridge/archive/master.zip
+
